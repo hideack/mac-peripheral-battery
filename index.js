@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 'use strict';
 const execa = require('execa');
 const plist = require('simple-plist');
