@@ -1,0 +1,27 @@
+{
+  "name": "mac-peripheral-battery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hideack/mac-peripheral-battery.git"
+  },
+  "keywords": [
+    "battery",
+    "mac"
+  ],
+  "author": "hideaki terai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hideack/mac-peripheral-battery/issues"
+  },
+  "homepage": "https://github.com/hideack/mac-peripheral-battery#readme",
+  "dependencies": {
+    "execa": "^5.0.0",
+    "simple-plist": "^1.1.1"
+  }
+}
